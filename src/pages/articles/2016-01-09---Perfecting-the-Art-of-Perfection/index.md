@@ -1,20 +1,25 @@
 ---
-title: Perfecting the Art of Perfection
-date: "2016-09-01T23:46:37.121Z"
+title: Hello World
+date: "2018-02-10T23:46:37.121Z"
 layout: post
 draft: false
-path: "/posts/perfecting-the-art-of-perfection/"
-category: "Design Inspiration"
+path: "/posts/hello-world/"
+category: "Life"
 tags:
-  - "Handwriting"
-  - "Learning to write"
-description: "Quisque cursus, metus vitae pharetra auctor, sem massa mattis sem, at interdum magna augue eget diam. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Morbi lacinia molestie dui. Praesent blandit dolor. Sed non quam. In vel mi sit amet augue congue elementum."
+  - "Life"
+description: "My first Post"
 ---
 
-Quisque cursus, metus vitae pharetra auctor, sem massa mattis sem, at interdum magna augue eget diam. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Morbi lacinia molestie dui. Praesent blandit dolor. Sed non quam. In vel mi sit amet augue congue elementum.
+Based on popular demand and stuff i'm finally starting a blog. Hopefully, this blog should become a place on the internet where I
+get to share my thoughts on Life, Programming and anything I feel like basically. One thing that was holding me back from doing this 
+earlier was due to the fact that I always wanted to build it myself from scratch for some weird reason. Unfortunately,
+I never could find the time to do it so I eventually lost interest in having my own blog. 
 
-![Nulla faucibus vestibulum eros in tempus. Vestibulum tempor imperdiet velit nec dapibus](./1.jpg)
+That was until I discovered [gatsby](https://gatsbyjs.org). Gatsby is a free and open source static-site generator built with react.
+Out of the box it comes with a lot of features I was actually looking to build myself. I get to write in markdown, host for free
+on [netlify](https://netlify.com) and sharpen my react skills. Basically Gatsby was a great choice for **me**.
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. 
+My intention is to publish at least 2 articles a month, I'm currently learning Golang so the next two articles I write are probably
+going to be focused on that, so check back soon and thank you for reading.
 
-Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus.
+

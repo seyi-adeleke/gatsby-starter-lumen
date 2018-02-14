@@ -1,6 +1,15 @@
 @import "../../assets/scss/variables";
 @import "../../assets/scss/mixins";
 
+
+.sidebar__author-photo {
+   filter: grayscale(100%);
+}
+.sidebar__author-photo:hover {
+  filter:none;
+  border: 1px solid $color-base;
+}
+
 .sidebar {
     width: 100%;
     &__inner {

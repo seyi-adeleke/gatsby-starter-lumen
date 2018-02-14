@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
     url: 'https://lumen.netlify.com/',
-    title: 'Blog by John Doe',
-    subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    title: 'Blog by Seyi Adeleke',
+    subtitle: 'Fullstack Software engineer and baby boy',
     copyright: '© All rights reserved.',
     disqusShortname: '',
     menu: [
@@ -13,20 +13,13 @@ module.exports = {
       {
         label: 'About me',
         path: '/about/'
-      },
-      {
-        label: 'Contact me',
-        path: '/contact/'
       }
     ],
     author: {
-      name: 'John Doe',
-      email: '#',
-      telegram: '#',
-      twitter: '#',
-      github: '#',
-      rss: '#',
-      vk: '#'
+      name: 'Seyi Adeleke',
+      email: 'adelekeadetokunbo01@gmail.com',
+      twitter: 'seyi__adeleke',
+      github: 'seyi-adeleke'
     }
   },
   plugins: [
