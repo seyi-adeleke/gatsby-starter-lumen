@@ -24,6 +24,14 @@ module.exports = {
   },
   plugins: [
     {
+      resolve: 'gatsby-plugin-google-analytics',
+      options: {
+        trackingId: 'UA-93089243-1',
+        head: false,
+        anonymize: true
+      }
+    },
+    {
       resolve: 'gatsby-source-filesystem',
       options: {
         path: `${__dirname}/src/pages`,
@@ -92,9 +100,7 @@ module.exports = {
         plugins: [
           {
             resolve: 'gatsby-remark-images',
-            options: {
-              maxWidth: 960
-            }
+            options: { maxWidth: 960 }
           },
           {
             resolve: 'gatsby-remark-responsive-iframe',
@@ -113,10 +119,8 @@ module.exports = {
       options: { trackingId: '' }
     },
     {
-      resolve: `gatsby-plugin-google-fonts`,
-      options: {
-        fonts: [`roboto\:400,400i,500,700`]
-      }
+      resolve: 'gatsby-plugin-google-fonts',
+      options: { fonts: ['roboto\:400,400i,500,700'] }
     },
     {
       resolve: 'gatsby-plugin-sitemap',
